@@ -1,6 +1,6 @@
 {
     "name": "141",
-    "description": "meow meow but in blue",
+    "description": "background change to the rosie theme.",
     "version": "2.0.0",
     "authors": [
       {
@@ -175,7 +175,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://i.imgur.com/2oKQS3c.png"
+        "url": "https://i.imgur.com/9fQgG8C.png"
     },
    "plus":{
        "version":"0",
