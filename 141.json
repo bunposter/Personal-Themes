@@ -1,12 +1,11 @@
 {
-	"name": "141",
-	"version": "1.9",
-	"description": "a custom theme based off of CoD's TF-141.",
-	"color": "#FF79FF",
-	"authors": [
-		{
-			"name": "Rii",
-			"id": "1025600645031530547"
+    "name": "141",
+    "description": "meow meow but in blue",
+    "version": "2.0.0",
+    "authors": [
+      {
+        "name": "Moodle",
+        "id": "807170846497570848"
       }
     ],
     "semanticColors": {
